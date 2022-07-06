@@ -4,6 +4,7 @@ Reactjs ile geliştirilen bu uygulamada, react hookları, redux toolkit i ve tai
 
 ### `Canlı Link`
 https://bildircin-weather-app.herokuapp.com
+
 https://bildircin.github.io/weather-app
 
 ## Ekran Görselleri
