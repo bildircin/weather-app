@@ -17,7 +17,7 @@ const MapViewWeather = () =>{
 
     
     const headers = {
-        'authorization': 'apikey 5ZXMYjE0UDxJFKnlnTqZyf:1ukEm48Xsryc7sBhnMPO8i',
+        'authorization': 'apikey 7IFX6N1fZYaatdx3RFl80G:3MbrXksTzbugD0vCWNVtx1',
         'content-type': 'application/json'
     }
 
